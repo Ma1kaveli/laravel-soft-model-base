@@ -1,9 +1,9 @@
 <?php
 
-namespace LaravelSoftModelBase\Models;
+namespace SoftModelBase\Models;
 
-use LaravelSoftModelBase\Traits\ActionInfo;
-use LaravelSoftModelBase\Traits\SoftModel;
+use SoftModelBase\Traits\ActionInfo;
+use SoftModelBase\Traits\SoftModel;
 
 use Carbon\Carbon;
 use Illuminate\Database\Eloquent\Model;

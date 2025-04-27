@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelSoftModelBase\Traits;
+namespace SoftModelBase\Traits;
 
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
 

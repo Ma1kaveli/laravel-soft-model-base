@@ -1,10 +1,10 @@
 <?php
 
-namespace LaravelSoftModelBase\Traits;
+namespace SoftModelBase\Traits;
 
 use Exception;
 use Illuminate\Support\Facades\DB;
-use LaravelLogger\Facades\LaravelLog;
+use Logger\Facades\LaravelLog;
 
 trait SoftModel
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelSoftModelBase\Providers;
+namespace SoftModelBase\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
